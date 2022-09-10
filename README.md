@@ -1,10 +1,10 @@
 ### Hi! I'm Fi 👋
 
+- 😄 My pronouns are: she/they
 
 - 🌱 I’m currently learning Typescript, Grommet
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about accessibility in tech
-- 😄 My pronouns are: she/they
 - ⚡ Fun fact: I rollerskate at skateparks!
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,redux,express,postgres,firebase)](https://skillicons.dev)
