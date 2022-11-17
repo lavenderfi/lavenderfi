@@ -1,8 +1,8 @@
 ### Hi! I'm Fi 👋
 
 - 😄 My pronouns are: she/they
-- 🔭 Currently working on [EatUp](https://github.com/lavenderfi/Eat-Up)
-- 🌱 I’m currently learning Typescript, Docker
+- 🔭 Currently working on [Migraine-Tracker](https://github.com/lavenderfi/Migraine-Tracker)
+- 🌱 I’m currently learning Python, Tailwind CSS
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about accessibility in tech
 - ⚡ Fun fact: I rollerskate at skateparks!
