@@ -7,7 +7,7 @@
 - 💬 Ask me about accessibility in tech
 - ⚡ Fun fact: I rollerskate at skateparks!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,redux,express,postgres,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,redux,express,postgres,firebase,nextjs,prisma)](https://skillicons.dev)
 
 ![LavenderFi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavenderfi&theme=cobalt&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavenderfi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
