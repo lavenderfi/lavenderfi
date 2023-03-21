@@ -2,7 +2,7 @@
 
 - 😄 My pronouns are: she/they
 - 🔭 Currently working on [Migraine-Tracker](https://github.com/lavenderfi/Migraine-Tracker)
-- 🌱 I’m currently learning Python, Tailwind CSS
+- 🌱 I’m currently learning Python, TypeScript
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about accessibility in tech
 - ⚡ Fun fact: I rollerskate at skateparks!
