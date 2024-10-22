@@ -1,7 +1,6 @@
 ### Hi! I'm Fi 👋
 
 - 😄 My pronouns are: she/they
-- 🔭 Currently working on [Success Rocket](https://success-rocket.app/)
 - 🌱 I’m currently learning Python, TypeScript
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about accessibility in tech
